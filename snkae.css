@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#scoreBox{
+    position: absolute;
+    top: 25px;
+    right: 250px;
+    font-size: 33px;
+    font-weight: 900;
+}
